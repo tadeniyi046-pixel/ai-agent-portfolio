@@ -1,4 +1,4 @@
-# ai-agent-portfolio# 👋 Hi, I’m Tadeniyi04  
+ 👋 Hi, I’m Tadeniyi04  
 
 I’m an **AI Agent Developer** passionate about building LLM-powered agents with **LangChain** and automation workflows.  
 This is my GitHub portfolio where I share my projects in **AI, Python, and autonomous agents**.  
